@@ -1,4 +1,3 @@
-// исходная программа на Stella
 language core;
 
 extend with #type-reconstruction;
